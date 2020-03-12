@@ -49,5 +49,6 @@
 <body>
 	<h2>Location Of User</h2>
 	<div id="googleMap" style="width: 500px; height: 380px;"></div>
+	<a href="crawling.do"><input type="button" value="Btn"></a>
 </body>
 </html>
