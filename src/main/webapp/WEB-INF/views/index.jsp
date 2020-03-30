@@ -10,7 +10,8 @@
 <ul>
 	<li><h2><a href ="map">1. MAP</a></h2></li>
 	<li><h2><a href ="chart">2. CHART</a></h2></li>
-	
+	<li><h2><a href ="MartSearch">3. Mart Search</a></h2></li>
+	<li><h2><a href ="HomeSearch">4. Home Search</a></h2></li>
 </ul>
 
 </body>

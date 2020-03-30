@@ -35,4 +35,16 @@ public class HomeController {
 		return "chart";
 	}
 	
+	@GetMapping("/HomeSearch")
+	public String HomeSearch() {
+		
+		return "HomeSearch";
+	}
+	
+	@GetMapping("/MartSearch")
+	public String MartSearch() {
+		
+		return "MartSearch";
+	}
+	
 }
