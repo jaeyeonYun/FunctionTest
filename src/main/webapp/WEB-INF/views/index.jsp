@@ -7,12 +7,18 @@
 <title>Insert title here</title>
 </head>
 <body>
-<ul>
-	<li><h2><a href ="map">1. MAP</a></h2></li>
-	<li><h2><a href ="chart">2. CHART</a></h2></li>
-	<li><h2><a href ="MartSearch">3. Mart Search</a></h2></li>
-	<li><h2><a href ="HomeSearch">4. Home Search</a></h2></li>
-</ul>
+<div>
+	<ul>
+		<li><a href = "map">1. map</a></li>
+		<li><a href = "chart">2. chart</a></li>
+		<li><a href = "HomeSearch">3. HomeSearch</a></li>
+		<li><a href = "MartSearch">4. MartSearch</a></li>
+		<li><a href = "recipe">5. recipe</a></li>
+		
+		
+	</ul>
+	
+</div>
 
 </body>
 </html>

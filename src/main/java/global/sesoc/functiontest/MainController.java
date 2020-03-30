@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * Handles requests for the application home page.
  */
 @Controller
-public class HomeController {
+public class MainController {
 	
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home() {
@@ -47,4 +47,9 @@ public class HomeController {
 		return "MartSearch";
 	}
 	
+	@GetMapping("/recipe")
+	public String recipe() {
+		
+		return "recipe";
+	}
 }
