@@ -65,6 +65,6 @@
 <div id="chart_div"></div>
 <h3>*****월 별 지출 그래프*****</h3>
   <div id="barchart_values"></div>
-  <h3>*****한달 지출 내역*****</h3>
+  <h3>*****한달 지출 내역****</h3>
 </body>
 </html>
