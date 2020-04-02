@@ -9,13 +9,6 @@
 <body>
 	<h1>Test</h1>
 	<h2>태원 깃 테스트</h2>
-	<h3>Test3</h3>
-	<h4>Test4</h4>
-	<h2>TEst5</h2>
-	<h2>TEst5</h2>
-	<p>DownLoadTest</p>
-	<h1>sadjsadj</h1>
-	<h2>TEST</h2>
-	<h1></h1>
+	<h2>TestJH</h2>
 </body>
 </html>
